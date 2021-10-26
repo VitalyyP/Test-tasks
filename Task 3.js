@@ -1,3 +1,6 @@
+Itop agency, Junior Front-end Developer (React/Angular), https://jobs.dou.ua/companies/itop1000/vacancies/185572/?from=widget_company
+
+
 Реализовать секундомер, который подсчитывает время в формате «HH: MM: SS»
 
 Секундомер должен иметь следующие кнопки:
